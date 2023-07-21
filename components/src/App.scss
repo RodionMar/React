@@ -1,8 +1,12 @@
 #root {
-  max-width: 1280px;
-  margin: 0 auto;
+  width: 100%;
+  min-height: 100%;
   padding: 2rem;
   text-align: center;
+  background: url(./assets/images/the-challenger-stands-in-front-of-the-spooky-castle-illustration.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .logo {
